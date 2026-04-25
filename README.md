@@ -2,7 +2,7 @@
 
 This project presents a security analysis of a public API to identify potential risks, evaluate authentication mechanisms, and suggest remediation strategies.
 
----
+
 
 ##  Objective
 
@@ -14,7 +14,7 @@ The objective of this project is to:
 - Classify risk severity (Low / Medium / High)
 - Provide remediation suggestions
 
----
+
 
 ##  API Tested
 
@@ -22,14 +22,14 @@ The objective of this project is to:
 - Endpoint used:  
   https://jsonplaceholder.typicode.com/users
 
----
+
 
 ##  Tools Used
 
 - **Postman** – for sending API requests and analyzing responses  
 - **Browser DevTools** – for inspecting network requests, headers, and response data  
 
----
+
 
 ##  Scope
 
@@ -38,7 +38,7 @@ The objective of this project is to:
 - No exploitation or attack attempts  
 - Ethical and safe analysis  
 
----
+
 
 ##  Methodology
 
@@ -53,7 +53,7 @@ The following steps were followed during analysis:
 7. Classified risk severity  
 8. Suggested remediation measures  
 
----
+
 
 ##  Identified Risks
 
@@ -63,7 +63,7 @@ The following steps were followed during analysis:
 - **Excessive Data Exposure (High)**  
   The API exposes detailed user information such as email, phone number, and address.
 
----
+
 
 ##  Business Impact
 
