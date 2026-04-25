@@ -96,6 +96,6 @@ This project demonstrates how insecure APIs can expose sensitive data and highli
 
 
 
-## 🚀 Conclusion
+##  Conclusion
 
 API security is essential in modern applications. Proper authentication and controlled data exposure can significantly reduce risks and improve system security.
