@@ -95,6 +95,12 @@ The following steps were followed during analysis:
 This project demonstrates how insecure APIs can expose sensitive data and highlights the importance of authentication, access control, and secure API design.
 
 
+## Screenshots
+
+![Postman](screenshots/postman.png)
+![Headers](screenshots/headers.png)
+![Response](screenshots/response.png)
+
 
 ##  Conclusion
 
